@@ -1,5 +1,0 @@
-http://www.ethanaxe.com/about/index.html
-http://www.ethanaxe.com/json/music.json
-http://www.ethanaxe.com/music/index.html
-http://www.ethanaxe.com/2024/05/04/hello-world/
-http://www.ethanaxe.com/

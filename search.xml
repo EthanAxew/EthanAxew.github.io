@@ -23,6 +23,25 @@
     
     
     <entry>
+      <title>Ewelcome插件配置</title>
+      <link href="/2024/05/05/%E6%8F%92%E4%BB%B6Ewelcome/"/>
+      <url>/2024/05/05/%E6%8F%92%E4%BB%B6Ewelcome/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="2024-5-5-Ewelcome插件开源地址"><a href="#2024-5-5-Ewelcome插件开源地址" class="headerlink" title="  2024.5.5  Ewelcome插件开源地址"></a><strong><span style='color:white;background:black;'>  2024.5.5 </span> <span style='color:white;'><a href="https://github.com/EthanAxew/Ewelcome">Ewelcome插件开源地址</a></span></strong></h2><p>  如需转载请联系作者:</p><p>🐧作者qq:3785672683 作者qq群:787939667</p><p>  禁止非法倒卖,转载,违者必究！</p><h2 id="Ewelcome插件"><a href="#Ewelcome插件" class="headerlink" title="Ewelcome插件"></a>Ewelcome插件</h2><p>一款可以高度自定义的玩家加入&#x2F;退出&#x2F;死亡消息的插件！</p><hr><h3 id="功能"><a href="#功能" class="headerlink" title="功能:"></a>功能:</h3><p>1.可以自定义进入&#x2F;退出服务器玩家信息<br>2.可以自定义玩家死亡信息<br>3.可以设置是否向玩家发送死亡点坐标<br>4.可以高度自定义文件信息</p><h4 id="所有消息均可设置颜色并多行显示！"><a href="#所有消息均可设置颜色并多行显示！" class="headerlink" title="所有消息均可设置颜色并多行显示！"></a>所有消息均可设置颜色并多行显示！</h4><hr><h2 id="一·配置教程"><a href="#一·配置教程" class="headerlink" title="一·配置教程"></a>一·配置教程</h2><p>1.打开您的服务器根目录找到<span style='color:white;background:RoyalBlue;'> plugins </span>文件夹</p><p>2.找到<span style='color:white;background:RoyalBlue;'> Ewelcome </span>文件夹双击打开</p><p>3.打开<span style='color:white;background:RoyalBlue;'>config.yml</span>文件</p><p>4.修改玩家加入自定义消息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">joinmsg：</span><br><span class="line">#true为开启 false为关闭！</span><br><span class="line">enabled：#默认为true</span><br><span class="line">joinmessage：#可以修改成您喜欢的任何文字,使用&quot;§&quot;给文件添加颜色使用&quot;/n&quot;换行!</span><br></pre></td></tr></table></figure><p>5.修改玩家退出自定义消息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">quitmsg:</span><br><span class="line">#true为开启 false为关闭！</span><br><span class="line">enabled: #默认为true</span><br><span class="line">quitMessage: 同上！！</span><br></pre></td></tr></table></figure><p>6.修改玩家死亡消息</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">death:</span><br><span class="line">#true为开启 false为关闭！</span><br><span class="line">enabled: #默认为true</span><br><span class="line">deathmessage: 同上！！</span><br></pre></td></tr></table></figure><p>7.修改玩家死亡时向自己播报死亡点</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">pos:</span><br><span class="line">#true为开启 false为关闭！</span><br><span class="line">enabled: #默认为true</span><br><span class="line">message: 同上！！</span><br></pre></td></tr></table></figure><hr><h2 id="二·结语"><a href="#二·结语" class="headerlink" title="二·结语"></a>二·结语</h2><p>以上就是Ewelcome插件全部配置教程！</p><p>如果发现任何bug或者问题请联系作者！</p><p>谢谢观看！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 插件开发 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何利用FRP搭建本地内网穿透</title>
       <link href="/2024/05/05/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8FRP%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
       <url>/2024/05/05/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8FRP%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</url>

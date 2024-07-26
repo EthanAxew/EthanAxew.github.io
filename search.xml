@@ -42,6 +42,25 @@
     
     
     <entry>
+      <title>EClock插件配置</title>
+      <link href="/2024/05/05/EClock%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
+      <url>/2024/05/05/EClock%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="2024-7-26-EClock插件开源地址"><a href="#2024-7-26-EClock插件开源地址" class="headerlink" title="  2024.7.26  EClock插件开源地址"></a><strong><span style='color:white;background:black;'>  2024.7.26 </span> <span style='color:white;'><a href="(https://github.com/EthanAxew/EClock/)">EClock插件开源地址</a></span></strong></h2><p> 如需转载请联系作者:</p><p>🐧作者qq:3785672683 作者qq群:787939667</p><p>  禁止非法倒卖,转载,违者必究！</p><h2 id="EClock插件"><a href="#EClock插件" class="headerlink" title="EClock插件"></a>EClock插件</h2><p>一款可以高度自定义的玩家加入&#x2F;退出&#x2F;死亡消息的插件！</p><p><a href="https://ww0.lanzouq.com/iIdoj25mg29c">国内下载地址</a> 提取码:2r72</p><hr><h3 id="V1-0功能"><a href="#V1-0功能" class="headerlink" title="V1.0功能:"></a>V1.0功能:</h3><p>1.可以自定义服务器内睡觉比例<br>2.可以自定义睡觉消息</p><h4 id="所有消息均可设置颜色并多行显示！"><a href="#所有消息均可设置颜色并多行显示！" class="headerlink" title="所有消息均可设置颜色并多行显示！"></a>所有消息均可设置颜色并多行显示！</h4><hr><h2 id="一·配置教程"><a href="#一·配置教程" class="headerlink" title="一·配置教程"></a>一·配置教程</h2><p>1.打开您的服务器根目录找到<span style='color:white;background:RoyalBlue;'> plugins </span>文件夹</p><p>2.找到<span style='color:white;background:RoyalBlue;'> EClock </span>文件夹双击打开</p><p>3.打开<span style='color:white;background:RoyalBlue;'>config.yml</span>文件</p><p>4.文件内有详细注释请认真阅读</p><h2 id="二·插件权限"><a href="#二·插件权限" class="headerlink" title="二·插件权限:"></a>二·插件权限:</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">eclock.main  #默认OP拥有</span><br></pre></td></tr></table></figure><h2 id="三·结语"><a href="#三·结语" class="headerlink" title="三·结语"></a>三·结语</h2><p>以上就是Ewelcome插件全部配置教程！</p><p>如果发现任何bug或者问题请联系作者！</p><p>谢谢观看！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 插件开发 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何利用FRP搭建本地内网穿透</title>
       <link href="/2024/05/05/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8FRP%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
       <url>/2024/05/05/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8FRP%E6%90%AD%E5%BB%BA%E6%9C%AC%E5%9C%B0%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</url>
@@ -61,7 +80,7 @@
     
     
     <entry>
-      <title>如何利用Hexo搭建个人博客完整版教程(包会)11</title>
+      <title>如何利用Hexo搭建个人博客完整版教程(包会)</title>
       <link href="/2024/05/04/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2(%E5%AE%8C%E6%95%B4%E7%89%88)/"/>
       <url>/2024/05/04/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2(%E5%AE%8C%E6%95%B4%E7%89%88)/</url>
       
